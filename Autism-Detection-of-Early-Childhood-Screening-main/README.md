@@ -43,14 +43,5 @@ The dataset used for training and testing the models is obtained from a verified
 
 ## Contributors
 
-- KAMLESH BAHETI (Reach out: [kamleshbaheti2232@gmail.com](mailto:kamleshbaheti2232@gmail.com))
+- KAMLESH BAHETI (Reach out: [mailto:sanketvchaudhary2002@gmail.com](mailto:sanketvchaudhary2002@gmail.com))
 
-## License
-
-This project is licensed under the Apache License 2.0.
-
-## Let's Collaborate!
-
-Feel free to contribute and improve this project! Your insights and expertise are valuable.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamleshbaheti036/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instaram&logoColor=white)](https://www.instagram.com/_kratak_/)
