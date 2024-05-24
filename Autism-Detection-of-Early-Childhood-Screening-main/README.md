@@ -43,5 +43,5 @@ The dataset used for training and testing the models is obtained from a verified
 
 ## Contributors
 
-- KAMLESH BAHETI (Reach out: [mailto:sanketvchaudhary2002@gmail.com](mailto:sanketvchaudhary2002@gmail.com))
+- Sanket Chaudhary (Reach out: [mailto:sanketvchaudhary2002@gmail.com](mail to: sanketvchaudhary2002@gmail.com))
 
